@@ -21,9 +21,9 @@ body:
       label: Type of request? 
       description: select the type of your request?
       options:
-        - New Feature (Default)
-        - 1.0.3 (Edge)
-      default: 0
+        - New Feature 
+        - Feature
+      default: New Feature
     validations:
       required: false
   - type: dropdown
