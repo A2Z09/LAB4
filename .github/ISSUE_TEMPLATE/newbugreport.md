@@ -1,4 +1,4 @@
-
+---
 name: Bug Report
 description: File a bug report.
 about: Describe this issue template's purpose here.
@@ -64,6 +64,6 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
-
+---
 
 
