@@ -23,7 +23,7 @@ body:
       options:
         - New Feature 
         - Feature
-      default: New Feature
+      default: 0
     validations:
       required: false
   - type: dropdown
