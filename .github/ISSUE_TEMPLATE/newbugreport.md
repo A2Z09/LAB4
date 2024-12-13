@@ -1,8 +1,8 @@
 ---
-name: Bug Report
-about: File a bug report
-title: "[Bug]: "
-labels: bug
+name: newBugReport
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
 assignees: ''
 
 ---
