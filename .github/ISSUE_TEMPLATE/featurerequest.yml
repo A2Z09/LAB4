@@ -32,12 +32,11 @@ body:
       label: What is the OS which you want to suggest?
       multiple: true
       options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+        - Window
+        - Mac
+        - Linux
   - type: textarea
-    id: logs
+    id: suggest
     attributes:
       label: What are the details of your suggestion?
       description: Explain what what do you want.
